@@ -1,8 +1,8 @@
 # Tabla de contenidos de los cursos
 ## Índice de contenidos
-* [Presentación][#presentación]
+* [Presentación](#presentación)
 
 
-### [Presentación](presentacion)
+### [Presentación](/presentacion)
 
-### [MatemáticasII](MatematicasII)
+### [MatemáticasII](/MatematicasII)
