@@ -1,4 +1,4 @@
 # Presentación 
-[Presetación](presentation)
+[Presetación](https://ricardomonroy.github.io/academic/presentation/)
 # Matemáticas II
-[MatemáticasII](MatematicasII)
+[MatemáticasII](https://ricardomonroy.github.io/academic/MatematicasII/)
